@@ -12,6 +12,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -28,10 +29,12 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |

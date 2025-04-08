@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Hash Table
@@ -41,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->

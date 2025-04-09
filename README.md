@@ -6,6 +6,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3463-alternating-groups-i](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/3463-alternating-groups-i) |
@@ -17,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -24,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -45,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +77,8 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

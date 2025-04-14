@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -39,6 +40,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

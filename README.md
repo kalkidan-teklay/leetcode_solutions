@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -59,10 +61,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |

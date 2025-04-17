@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -93,5 +94,6 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

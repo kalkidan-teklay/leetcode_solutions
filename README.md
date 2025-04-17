@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0015-3sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -95,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |

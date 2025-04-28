@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3463-alternating-groups-i](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/3463-alternating-groups-i) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0015-3sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -103,4 +105,5 @@
 | [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

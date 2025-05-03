@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -60,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -106,6 +110,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/kalkidan-teklay/leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
